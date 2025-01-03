@@ -50,4 +50,3 @@ En el directorio del proyecto, puedes ejecutar los siguientes comandos:
 5. Desliza un gasto a la izquierda para eliminarlo.
 
 ---
-# planificador-gastos-ts
